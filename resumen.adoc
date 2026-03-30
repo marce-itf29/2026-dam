@@ -51,3 +51,50 @@ El diseño UX (User Experience o Experiencia de Usuario) es la disciplina que se
 El diseño de interfaces es un proceso iterativo y repetitivo en el que se va mejorando y optimizando constantemente, teniendo al usuario como centro de referencia y feedback. Es clave conocer sus necesidades, temores, objetivos y todo lo que nos pueda brindar información acerca de cómo y para qué usaría nuestra aplicación.
 
 
+==== UX (Experiencia de Usuario)
+
+El diseño UX se centra en la experiencia general del usuario al interactuar con la aplicación. Su objetivo principal es hacer que el usuario logre sus objetivos de manera eficiente, cómoda y agradable. Para ello, se enfoca en:
+
+* *Estructura de la app:* Organiza la información y las funciones de manera lógica y coherente.
+* *Flujo de navegación:* Define cómo se mueve el usuario entre las pantallas de la app, asegurándose de que sea sencillo y directo.
+* *Usabilidad:* Garantiza que la app sea fácil de usar, intuitiva y accesible para todo tipo de usuarios.
+* *Interacción:* Se ocupa de la forma en que el usuario interactúa con la app, buscando siempre una experiencia fluida y agradable.
+* *Pruebas de usuario:* Validar los diseños a través de la retroalimentación de los usuarios reales para mejorar la funcionalidad y la experiencia.
+
+==== Usabilidad
+
+Jakob Nielsen dice que hay 5 componentes de calidad que todo producto debería tener cuando se está hablando de usabilidad:
+
+. *Aprendizaje:* qué tan fácil es aprender a usar el producto.
+. *Eficiencia:* qué tan eficiente es el producto para realizar las tareas que se le pide.
+. *Memoria:* qué tan fácil es recordar cómo utilizar el producto sin tener que pasar por la curva de aprendizaje de nuevo.
+. *Errores:* qué tan fácilmente te ayuda el producto a salir de los errores.
+. *Satisfacción:* qué tan contentos están los usuarios con el producto.
+
+image::semana2.0.png[Ejemplo de formulario en la web móvil, width=600, align=center]
+
+image::semana2.1.png[Ejemplo de menu hamburguesa, width=600, align=center]
+
+==== Accesibilidad
+
+La Accesibilidad ya no se refiere a la facilidad de uso, sino a la posibilidad de acceso.
+
+Mientras que un diseño usable requiere delimitar a su audiencia potencial con el fin de diseñar para lo concreto, un diseño accesible implica la necesidad de diseñar para la diversidad y heterogeneidad de necesidades de acceso presentadas por esta audiencia específica.
+
+Cuando la audiencia para la que se diseña es muy amplia y presenta necesidades de acceso muy diferentes, normalmente se hace necesaria la puesta a disposición de varias versiones del diseño o un diseño adaptable, como son las conocidas "versiones solo texto" o versiones en varios idiomas.
+
+"_En concreto el diseño debe, como prerrequisito imprescindible para ser usable, posibilitar el acceso a todos sus potenciales usuarios, sin excluir a aquellos con limitaciones individuales, tales como discapacidades, dominio del idioma, o limitaciones derivadas del contexto de acceso tales como software y hardware empleado para acceder, ancho de banda de la conexión empleada, etc_."
+
+==== UI (Interfaz de Usuario)
+
+image::semana2.2.png[Ejemplo de interfaces móviles, align=right, width=300]
+
+
+
+*Características:*
+
+* *Intuitivo:* El diseño UI busca que los usuarios comprendan fácilmente cómo interactuar con el producto digital, utilizando elementos visuales claros y coherentes.
+* *Usable:* Se centra en facilitar la navegación y la realización de tareas dentro del producto, asegurándose de que la experiencia sea fluida y eficiente.
+* *Interactivo:* Incorpora elementos interactivos que permiten al usuario realizar acciones y recibir retroalimentación instantánea, mejorando así la experiencia de uso.
+* *Impactante:* Busca crear interfaces atractivas y memorables, utilizando una combinación adecuada de colores, formas, tipografía y elementos visuales que generen un impacto visual positivo.
+* *Funcionalidad sobre estética:* Aunque el diseño UI se preocupa por la estética, su principal enfoque es en la funcionalidad. Es importante que el diseño satisfaga las necesidades y expectativas de los usuarios para que el producto sea exitoso, más allá de su apariencia visual.
