@@ -42,3 +42,12 @@ Diseñar una app es todo un desafío. Implica pensar su funcionalidad y darle un
 * El *prototipado* es una herramienta esencial que permite visualizar y probar conceptos de diseño de manera interactiva antes de la implementación final.
 
 Estos dos elementos forman un enfoque integral para optimizar la creación de aplicaciones, desde la conceptualización hasta la entrega, mejorando la calidad del producto y la experiencia del usuario.
+
+
+==== Diseño UX
+
+El diseño UX (User Experience o Experiencia de Usuario) es la disciplina que se encarga de agregar valor a la experiencia del usuario al utilizar nuestra aplicación. El objetivo es que esta experiencia sea significativa, relevante y placentera, y que dé un valor para el usuario. Dentro de User Experience hay diversas áreas de especialidad, una de ellas es el diseño de interfaces (UI).
+
+El diseño de interfaces es un proceso iterativo y repetitivo en el que se va mejorando y optimizando constantemente, teniendo al usuario como centro de referencia y feedback. Es clave conocer sus necesidades, temores, objetivos y todo lo que nos pueda brindar información acerca de cómo y para qué usaría nuestra aplicación.
+
+
