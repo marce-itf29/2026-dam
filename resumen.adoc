@@ -9,7 +9,13 @@
 
 == Semana 1
 
-=== Etapas del Diseño
+
+
+== Semana 2
+
+=== PPT de clase sincronica
+
+==== Etapas del Diseño
 
 . *Diseño UX (Experiencia de Usuario)*
 +
@@ -27,3 +33,12 @@
 +
 * Validación con usuarios para detectar problemas de usabilidad.
 * Iteración y mejoras antes de pasar a desarrollo.
+
+==== Diseño versus Prototipo
+
+Diseñar una app es todo un desafío. Implica pensar su funcionalidad y darle una primera forma, a través de un prototipo, que permita evaluar ese diseño.
+
+* El *diseño* supone pensar en la usabilidad, la accesibilidad y la experiencia de usuario.
+* El *prototipado* es una herramienta esencial que permite visualizar y probar conceptos de diseño de manera interactiva antes de la implementación final.
+
+Estos dos elementos forman un enfoque integral para optimizar la creación de aplicaciones, desde la conceptualización hasta la entrega, mejorando la calidad del producto y la experiencia del usuario.
