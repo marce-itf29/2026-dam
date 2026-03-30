@@ -1,13 +1,29 @@
 :toc: left
 :toclevels: 4
-:toc-title: Lógica computacional
+:toc-title: Desarrollo de Aplicaciones Moviles
 :imagesdir: ./images
 :stem: 
 :stylesheet: daro-dark.css
 
-= Probabilidad prueba
+= Desarrollo de Aplicaciones Moviles
 
 == Semana 1
 
-=== Argumento
+=== Etapas del Diseño
 
+. *Diseño UX (Experiencia de Usuario)*
++
+* Definición del flujo de navegación y estructura de la app.
+* Creación de wireframes (bocetos de la interfaz sin detalles visuales).
+* Priorización de la usabilidad y accesibilidad.
+
+. *Diseño UI (Interfaz de Usuario) y Prototipado*
++
+* Aplicación de colores, tipografías, iconos y estilo visual.
+* Creación de prototipos interactivos con herramientas como Figma (que veremos más adelante) o Adobe XD.
+* Diseño de elementos gráficos y animaciones.
+
+. *Pruebas y Ajustes*
++
+* Validación con usuarios para detectar problemas de usabilidad.
+* Iteración y mejoras antes de pasar a desarrollo.
