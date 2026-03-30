@@ -1,0 +1,13 @@
+:toc: left
+:toclevels: 4
+:toc-title: Lógica computacional
+:imagesdir: ./images
+:stem: 
+:stylesheet: daro-dark.css
+
+= Probabilidad prueba
+
+== Semana 1
+
+=== Argumento
+
